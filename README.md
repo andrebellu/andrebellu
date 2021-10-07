@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning: **Java**
 
-- 📖 I like reading: **Noir**
-
 - 🐸 Fun fact: **I like frogs**
 
 - 💭 Dream: **Become a cyber security expert**
