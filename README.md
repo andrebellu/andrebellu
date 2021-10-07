@@ -7,6 +7,4 @@
 
 - 💭 Dream: **Become a cyber security expert**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrebellu&show_icons=true&theme=dark&locale=en" alt="andrebellu" /></p>
-
 
