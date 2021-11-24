@@ -7,4 +7,6 @@
 
 - 💭 Dream: **Become a cyber security expert**
 
+![](https://www.codewars.com/users/andrebellu/badges/micro)
+
 
