@@ -2,5 +2,7 @@
 <h3 align="center">I'm a 18yo student who studies IT at IIS Castelli in Brescia</h3>
 
 <div align="center">
-  [![andre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrebellu)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebellu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
