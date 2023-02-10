@@ -3,6 +3,6 @@
 
 <div align="center">
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebellu&hide=Tcl&theme=tokyonight)
-  
+  <img src="https://github.com/andrebellu/andrebellu/blob/main/teamwork.gif" alt="Teamwork">
+
 </div>
