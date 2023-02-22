@@ -3,6 +3,6 @@
 
 <div align="center">
   
-  <img src="https://github.com/andrebellu/andrebellu/blob/main/teamwork.gif" alt="Teamwork">
+  <img src="https://media.tenor.com/SME166qHvlcAAAAC/happy-shrek.gif" alt="Teamwork">
 
 </div>
