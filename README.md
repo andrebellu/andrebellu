@@ -2,7 +2,5 @@
 <h3 align="center">I'm a 18yo student who studies IT at IIS Castelli in Brescia</h3>
 
 <div align="center">
-  
-  <img src="https://media.tenor.com/SME166qHvlcAAAAC/happy-shrek.gif" alt="Teamwork">
-
+ 
 </div>
